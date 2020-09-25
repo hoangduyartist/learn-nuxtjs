@@ -13,6 +13,10 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
+  // plugins
+  plugins: [
+    '@plugins/vuetify'
+  ],
   /*
   ** Customize the progress bar color
   */
